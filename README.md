@@ -2,6 +2,7 @@
 This is a course management project created with ReactJs and Flux. The 'About' page has web components 
 - installed from @vaadin rep - https://vaadin.com/learn/tutorials/using-web-components-in-react
 - A local web component created in MyElement.js created using - https://www.npmjs.com/package/react-web-component
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
